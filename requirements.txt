@@ -1,0 +1,38 @@
+# Core ML and LangChain
+langchain==0.3.8
+langchain-chroma==0.1.4
+langchain-community==0.3.8
+langchain-core==0.3.21
+langchain-openai==0.2.9
+langchain-text-splitters==0.3.2
+langsmith==0.1.145
+
+# OpenAI
+openai==1.55.0
+
+# Vector Database
+chromadb==0.5.20
+chroma-hnswlib==0.7.6
+
+# PDF Processing
+pypdf==5.1.0
+
+# Flask and Web
+Flask==3.0.3
+Flask-CORS==5.0.0
+Werkzeug==3.0.4
+
+# Environment
+python-dotenv==1.0.1
+
+# Data Processing
+numpy==1.26.4
+tiktoken==0.8.0
+
+# AWS (optional - for S3 integration if needed later)
+boto3==1.35.68
+botocore==1.35.68
+
+# Utilities
+requests==2.32.3
+tqdm==4.67.0
